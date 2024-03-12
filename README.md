@@ -1,3 +1,6 @@
+Nome: Iago Barros Viana
+Email: iago.viana@fatec.sp.gov.br
+
 # Lista Linear
 
 Faça um fork deste repositorio e implemente a função buscarElemento
